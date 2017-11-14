@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: pompe:portfolio
-email: john.abramsson@gmail.com
+email: pompedev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Saker jag gjort, borde gjort eller ska göra.
 baseurl: "" # the subpath of your site, e.g. /blog
