@@ -6,4 +6,4 @@ categories: misc
 comments: true
 ---
 
-Detta är den den första bloggposten. Det kan vara den sista. Men förmodligen inte.
+First test post.
