@@ -1,0 +1,11 @@
+/* TEAM */
+	Myself: John "Pompe" Abramsson
+	Contact: pompedev@gmail.com
+	From: Sweden
+
+/* SITE */
+	Last update: 2017/11/13
+	Docktype: HTML5
+	SSG: Jekyll
+	IDE: Webstorm
+	  
