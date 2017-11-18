@@ -14,6 +14,7 @@ $spacing-unit:     30px !default;
 $text-color: #f2f2f2 !default;
 $base-color: #666666 !default;
 $background-color: #404040 !default;
+$background-color-dark: darken($background-color, 25%) !default;
 $brand-color: #bcc8e8 !default;
 
 $frame-color: #46658b !default;

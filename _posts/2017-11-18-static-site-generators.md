@@ -6,10 +6,10 @@ categories: answers school
 comments: true
 ---
 
-# Static site generators
+## Static site generators
 There are something rather compelling with static site generators (SSG). You can really leverage SSGs to create something that looks good and easily updates. However there is some set-up time to it and the experience has not been completely satisfactory to say the least. For some reason most SSGs seems to be dependent on ruby and it has not been without issues working with Jekyll on a Windows machine. Although this issue might be more of a Docker-issue  
 
-## Static or not
+### Static or not
 As the name static site generators (SSG) imply they generate a static site. Static sites might lack some of the more impressive dynamic parts but there are some serious upsides to the equation. 
 
 A website that is static is easier to develop as there are few(er) movable parts and it has better performance as each page is pre-chached and there are no database queries or processing for each site request. 
