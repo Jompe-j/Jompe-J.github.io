@@ -18,8 +18,8 @@ I have based the style of the page on the default minima theme from Jekyll and a
 **Mixins** - Although they can be “only” blocks of CSS to be reused they can also be passed arguments which extends the functionality a lot. 
 
 ### The Good and the bad
-For small projects such as this I’m not entirely convinced that having to work with another tool really is beneficial on the whole. But as a project increases in size and complexity I can see that better structure and organisation of code soon can outweigh the drawbacks. Pre-compiled CSS is just another tool in the toolbox and as with any tool the important part is to know when to use it.
+For small projects such as this I’m not entirely convinced that having to work with another tool really is beneficial on the whole. But as a project increases in size and complexity I can see that better structure and organisation of code soon can outweigh the drawbacks. Pre-compiled CSS is just another tool in the toolbox and as with any tool the important part is to know when to use it. And when not to.
 
 As mentioned above the possibility to re-use and structure code is of great benefits to any code project and therefore Sass offers much more than regular CSS. A good structure and use of nesting ensures readability and makes the code easier to maintain. Reusable parts further extends the maintainability of the code. 
 
-Some possible drawbacks is that it is another tool to learn and adopting a good structure is not without its cost in time. It is also not entirely easy to debug as issues from the browser debugger points to the compiled CSS-file. Of Course there are ways to handle this but that is another tool to learn and maintain.   
+Some possible drawbacks is that it is another tool to learn and adopting a good structure is not without its cost in time. It is also not entirely easy to debug as issues from the browser debugger points to the compiled CSS-file. Of Course there are ways to handle this but that is yet another tool to learn and maintain.   

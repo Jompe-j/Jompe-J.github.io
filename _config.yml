@@ -16,7 +16,7 @@
 title: pompe:portfolio
 email: pompedev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Saker jag gjort, borde gjort eller ska göra.
+  My random ramblings and stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jompe-j.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

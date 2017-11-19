@@ -32,8 +32,14 @@ layout: default
       </h2>
     </li>
     {% endfor %}
+
     {% endif %}
   </ul>
+  {% if page.title == null %}
+    <p>
+      <a href="/thoughts/" | relative_url }}">More of my random thoughts</a>
+    </p>
+  {% endif %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
